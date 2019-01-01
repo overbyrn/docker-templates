@@ -13,6 +13,7 @@
   <Overview>
     SABnzbd is an Open Source Binary Newsreader written in Python. SABnzbd makes Usenet as simple and streamlined as possible by automating everything we can. All you have to do is add an .nzb. SABnzbd takes over from there, where it will be automatically downloaded, verified, repaired, extracted and filed away with zero human interaction.
   </Overview>
+  <Support></Support>
   <Registry>https://registry.hub.docker.com/u/overbyrn/arch-sabnzbd/</Registry>
   <GitHub>https://github.com/overbyrn/arch-sabnzbd</GitHub>
   <Repository>overbyrn/arch-sabnzbd</Repository>
